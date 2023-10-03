@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "tutorial_mod:ruby"
+  },
+  "result": "tutorial_mod:ruby_ingot",
+  "experience": 12,
+  "cookingtime": 300
+}

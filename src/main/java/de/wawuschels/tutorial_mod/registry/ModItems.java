@@ -12,8 +12,8 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 
     //items
-    public static final Item RUBY = new Item(new FabricItemSettings().group(ItemGroup.MATERIALS).fireproof().rarity(Rarity.EPIC).maxCount(16));
-    public static final Item RUBY_INGOT = new Item(new FabricItemSettings().group(ItemGroup.MATERIALS).fireproof().rarity(Rarity.UNCOMMON));
+    public static final Item RUBY = new Item(new FabricItemSettings().group(ItemGroup.MATERIALS).fireproof().rarity(Rarity.EPIC));
+    public static final Item RUBY_INGOT = new Item(new FabricItemSettings().group(ItemGroup.MATERIALS).fireproof().rarity(Rarity.UNCOMMON).maxCount(16));
 
     public static final Item TREECAPITATOR = new Item(new FabricItemSettings().maxCount(1).fireproof().group(ItemGroup.TOOLS).rarity(Rarity.EPIC).maxDamage(13));
 

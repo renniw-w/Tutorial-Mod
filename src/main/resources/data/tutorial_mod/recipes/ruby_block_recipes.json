@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorial_mod:ruby_ingot"
+    },
+    {
+      "item": "tutorial_mod:ruby_ingot"
+    },
+    {
+      "item": "tutorial_mod:ruby_ingot"
+    },
+    {
+      "item": "tutorial_mod:ruby_ingot"
+    },
+    {
+      "item": "tutorial_mod:ruby_ingot"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "item": "tutorial_mod:ruby_block",
+    "count": 1
+  }
+}

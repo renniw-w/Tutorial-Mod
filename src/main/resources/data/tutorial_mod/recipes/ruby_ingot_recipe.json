@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tutorial_mod:ruby"
+  },
+  "result": "tutorial_mod:ruby_ingot",
+  "experience": 10,
+  "cookingtime": 400
+}
