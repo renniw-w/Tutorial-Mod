@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "tutorial_mod",
+  "version": "${version}",
+  "name": "Tutorial Mod",
+  "description": "This is a Tutorial Mod",
+  "authors": [
+    "Norwin Wagner"
+  ],
+  "contact": {
+    "repo": "https://github.com/norwin/Tutorial Mod"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/tutorial_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+    ],
+    "main": [
+      "de.wawuschels.tutorial_mod.TutorialMod"
+    ]
+  },
+  "mixins": [
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
